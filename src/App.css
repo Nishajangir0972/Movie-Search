@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background: linear-gradient(rgba(0, 0, 200, 0.147), rgba(0, 0, 200, 0.257), rgba(0, 0, 200, 0.113));
+    height: 100vh;
+}
+#root{
+    width: 70vw;
+    margin: 2rem auto;
+    background-color: #fff;
+    padding: 2rem;
+    box-shadow: 0 0 3px 5px rgba(0,0,0,0.7);
+    border-radius: 2rem;
+    position: relative;
+}
